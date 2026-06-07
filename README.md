@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>My Creative Portfolio</title>
-</head>
-<body>
 
-    <!-- Main Header -->
     <header>
         <h1>Welcome to My Creative Space</h1>
         <p>Skateboarding, Visual Art, and Music Production.</p>
