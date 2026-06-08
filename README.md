@@ -11,7 +11,7 @@
         <p>Welcome to my skate archive. I focus on street lines, video clips, and local skate spot progression.</p>
         <ul>
             <li><strong>Latest Video Setup:</strong> 8.25" Santa Cruz Deck, Kona Trucks, Bones Bearings.</li>
-            <li><strong>Recent Milestones:</strong> Working on locking down clean abstract lines on local ledges.</li>
+            <li><strong>Recent Milestones:</strong> My skateboarding channel documents my personal progression in the sport, tracking milestones that range from high-speed hill descents to structured stair drops and technical flatground variations. The footage captures both the breakthrough moments of landing a new trick for only the second time and the persistent consistency required to clear multi-stair blocks.Working on locking down clean abstract lines on local ledges.</li>
         </ul>
         <p><em>[Insert link to your YouTube or Instagram skate clips here]</em></p>
     </section>
