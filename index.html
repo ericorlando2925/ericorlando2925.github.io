@@ -37,7 +37,40 @@
     color: #fcf6ba; /* A subtle gold tint to match your frames */
     font-weight: bold;
     letter-spacing: 1px;
-  }
+  }/* Sticky Navigation Bar */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.85); /* Sleek translucent dark background */
+    backdrop-filter: blur(5px);            /* Elegant blur effect */
+    z-index: 1000;                         /* Keeps it pinned above everything else */
+    text-align: center;
+    padding: 15px 0;
+    border-bottom: 2px solid #b38728;     /* Subtle gold accent underline */
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    margin: 0 20px;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #fcf6ba; /* Turns gold when hovered over */
+}
+
+/* Add spacing to the body so the navbar doesn't cover your header */
+body {
+    padding-top: 70px !important;
+}
 
   footer {
     text-align: center;
