@@ -141,7 +141,14 @@ body {
   </ul>
   <p><em>[Insert embedded audio player link from SoundCloud or Bandcamp here]</em></p>
 </section>
-
+<h2>My Blog Posts</h2>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
 <footer>
   <p>Connect with me via my social platforms or check out my ongoing creative updates.</p>
 </footer>
