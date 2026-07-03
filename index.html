@@ -141,14 +141,22 @@ body {
   </ul>
   <p><em>[Insert embedded audio player link from SoundCloud or Bandcamp here]</em></p>
 </section>
-<h2>My Blog Posts</h2>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
+<!-- Blog Section -->
+<section id="blog">
+  <h2>✍️ My Blog & Studies</h2>
+  <p>Welcome to my ongoing log of project breakdowns, technical studies, and creative updates.</p>
+  
+  <ul style="list-style: none; padding: 0;">
+    {% for post in site.posts %}
+      <li style="margin-bottom: 15px;">
+        <strong style="font-size: 1.2rem;">
+          <a href="{{ post.url | relative_url }}" style="color: #fcf6ba; text-decoration: none; border-bottom: 1px dashed #fcf6ba;">{{ post.title }}</a>
+        </strong> 
+        <span style="opacity: 0.7; font-size: 0.9rem; margin-left: 10px;">— {{ post.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 <footer>
   <p>Connect with me via my social platforms or check out my ongoing creative updates.</p>
 </footer>
