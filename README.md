@@ -1,4 +1,14 @@
+<style>
+  .content-box {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+</style>
 
+<header>
+  <h1>Welcome to My Creative Space</h1>
+  ...
     <header>
         <h1>Welcome to My Creative Space</h1>
         <p>Skateboarding, Visual Art, and Music Production.</p>
