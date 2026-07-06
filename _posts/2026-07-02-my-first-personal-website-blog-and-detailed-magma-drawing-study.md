@@ -12,3 +12,6 @@ To kick things off, I wanted to share a new art piece I just officially wrapped 
 * **Pushing for Realistic Details:** Instead of sticking entirely to my usual cartoon-style approach, I spent hours grinding out more realistic details. I focused heavily on the textures, lighting, and finer linework to give the whole piece more depth and gravity.
 
 It took a lot of patience to sit with one piece for 12 hours in the last three days, but seeing the final result makes the grind completely worth it. Thanks for stopping by, and stay tuned for more art drops, and skate clips soon!
+<div style="max-width: 50%; margin: 20px 0; border: 5px solid; border-image: linear-gradient(to bottom right, #bf953f, #fcf6ba, #b38728, #fbf5b7, #aa771c) 1; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);">
+  <img src="/resized-1080x1350.jpg" alt="Description of your image" style="width: 100%; height: auto; display: block;" />
+</div>
