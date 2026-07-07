@@ -3,7 +3,6 @@ layout: default
 title: "My First Personal Website Blog and Detailed Magma Drawing Study"
 date: 2026-07-02
 ---
-</section>
 Welcome to my very first blog post! I built this site to serve as a home base for my creative workspace, front-end web development experiments, and skateboarding progression. 
 
 To kick things off, I wanted to share a new art piece I just officially wrapped up. It took me three days of 12 hours in total of pure focus to complete, and it represents a huge milestone for me because I pushed myself completely out of my comfort zone to try some new techniques:
