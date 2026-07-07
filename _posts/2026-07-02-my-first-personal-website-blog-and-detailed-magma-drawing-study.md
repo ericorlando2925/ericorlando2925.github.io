@@ -3,8 +3,6 @@ layout: default
 title: "My First Personal Website Blog and Detailed Magma Drawing Study"
 date: 2026-07-02
 ---
-<section>
-  <a>Blog Post Content<a>
 </section>
 Welcome to my very first blog post! I built this site to serve as a home base for my creative workspace, front-end web development experiments, and skateboarding progression. 
 
