@@ -5,7 +5,6 @@ date: 2026-07-02
 ---
 <section>
   <h2>Blog Post Content</h2>
-  <p>This content will now automatically appear with the Cara Cara background and the navigation bar.</p>
 </section>
 Welcome to my very first blog post! I built this site to serve as a home base for my creative workspace, front-end web development experiments, and skateboarding progression. 
 
